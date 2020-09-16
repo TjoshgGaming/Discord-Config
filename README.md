@@ -28,7 +28,7 @@ once it was run you should see files in your folder.
 
 So you need to code?
 
-create a bot at **Discord developer portal (https://discord.com/developers/applications)
+create a bot at **Discord developer portal** https://discord.com/developers/applications
 
 Then we will get a token at the bot menu.
 
@@ -69,5 +69,5 @@ then run it with node.js
 
 if you do not have node.js
 
-install it from **node.js.org(node.js.org)
+install it from node.js.org
 
